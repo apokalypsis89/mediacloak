@@ -1,0 +1,2 @@
+target_fname = ('C:\\Dev\\Data Science and Machine Learning\\MediaCloak\\data\\output\\faces\\frame_32_face_0.jpg', 'C:\\Dev\\Data Science and Machine Learning\\MediaCloak\\data\\output\\faces\\frame_42_face_0.jpg'), 
+print(type(target_fname))
